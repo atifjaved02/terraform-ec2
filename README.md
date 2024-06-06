@@ -13,6 +13,8 @@ Directory Structure
 │ └── vpc 
 │     └── main.tf 
 └── variables.tf
+<img width="234" alt="Screenshot 2024-06-06 at 7 31 40 PM" src="https://github.com/atifjaved02/terraform-ec2/assets/82868980/5a6e50b5-b8f3-40ab-aa6b-74a0b46bb4c4">
+
 
 Steps to Deploy
 
